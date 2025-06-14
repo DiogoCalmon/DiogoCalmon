@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">- 💻 I'm a Full-Stack Developer<br><br>- My favorite language is PHP</p>
+<p align="left">- 💻 I'm a Full-Stack Developer<br><br>- My favorite language is PHP<br><br> - I'm a Indie Hacker 🫠</p>
 
 ###
 
